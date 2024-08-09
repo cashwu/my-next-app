@@ -13,17 +13,17 @@ export default function Home() {
           priority
         />
         <div className="absolute inset-0 flex items-center justify-center">
-          <h1 className="text-4xl font-bold text-white">象晴設計</h1>
+          <h1 className="text-4xl font-bold text-white">Me</h1>
         </div>
       </div>
 
       {/* About 部分 - 背景色 #FFF */}
       <section className="w-full bg-white py-16">
         <div className="max-w-5xl mx-auto px-4">
-          <h2 className="text-3xl font-semibold mb-8 text-[#111]">ABOUT 象晴設計</h2>
+          <h2 className="text-3xl font-semibold mb-8 text-[#111]">ABOUT ME</h2>
           <div className="flex flex-col md:flex-row items-center">
             <p className="md:w-2/3 mb-8 md:mb-0 md:mr-8">
-              象晴設計以創意和專業為核心,致力於為客戶提供優質的設計服務。我們的團隊擁有豐富的經驗和獨特的視角,能夠為您的品牌注入新的活力。
+              我們的團隊擁有豐富的經驗和獨特的視角,能夠為您的品牌注入新的活力。
             </p>
             <Image
               src="/logo-example.jpg"

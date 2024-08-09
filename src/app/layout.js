@@ -51,7 +51,7 @@ export default function RootLayout({ children }) {
               </a>
             </div>
             <div className="text-center">
-              <p className="text-sm">&copy; 2023 象晴設計. 版權所有.</p>
+              <p className="text-sm">&copy; 2023 版權所有.</p>
             </div>
           </div>
         </footer>
